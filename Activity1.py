@@ -1,0 +1,6 @@
+file = open('abc.txt','a')
+file .write("Ron\n")
+file.close()
+file1 = open("demo1.txt",'w')
+file1.write("Welcome to Codingal...")
+file.close()
